@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Serge ODADJE.
+Software developper.😉
 
 <!--
 **ODADJE/ODADJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
