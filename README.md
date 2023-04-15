@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Serge ODADJE</h1>
-<h3 align="center">I'm a passionate software developper.</h3>
+<h3 align="center">I'm a passionate software developper and Javascript lover.</h3>
 
 - 🌱 I’m currently learning **Javascript and it's Framework like ReactJs.**
 
-- 📫 How to reach me **komlavisergeodadje@esp.sn**
+- 📫 How to reach me **odadjerk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
